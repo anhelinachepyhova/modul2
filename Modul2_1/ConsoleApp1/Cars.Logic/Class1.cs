@@ -12,21 +12,52 @@ namespace Cars.Logic
 		private string s_color;
 		private string s_name;
 
-		public Car(double n_price, string s_color, string s_name)
+		private double N_price
 		{
-			this.n_price = n_price;
-			this.s_color = s_color;
-			this.s_name = s_name;
+			 get
+			{
+				return n_price * 0.8;
+			}
+			set
+			{
+				n_price = value;
+			}
 		}
 
-		public double setsale()
+		private string S_name
+		{ 
+			get
+			{
+				return s_name;
+			}
+			set
+			{
+				s_name = value;
+			}
+		}
+
+		private string S_color
 		{
-			return this.n_price * 0.8;
+			get
+			{
+				return s_color;
+			}
+			set
+			{
+				s_color = value;
+			}
+		}
+
+		public void setinfoclass(string name, string color, double price)
+		{
+			S_name = name;
+			S_color = color;
+			N_price = price;
 		}
 
 		public string getinfo(int num)
 		{
-			return $"Information {num}. Name car - {this.s_name} ; color car - {this.s_color}; price car - {this.n_price}; new price car - {setsale()}";
+			return $"Information {num}. Name car - {S_name} ; color car - {S_color}; price car - {N_price};";
 		}
 
 	}

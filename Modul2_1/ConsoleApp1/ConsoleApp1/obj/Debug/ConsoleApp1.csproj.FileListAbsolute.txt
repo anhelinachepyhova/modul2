@@ -8,3 +8,13 @@ E:\Тестовая загрузка\HomeWorkC-\Modul2_1\ConsoleApp1\ConsoleApp1
 E:\Тестовая загрузка\HomeWorkC-\Modul2_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
 E:\Тестовая загрузка\HomeWorkC-\Modul2_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 E:\Тестовая загрузка\HomeWorkC-\Modul2_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\bin\Debug\Cars.Logic.dll
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\bin\Debug\Cars.Logic.pdb
+E:\Modul2\Modul2_1\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete

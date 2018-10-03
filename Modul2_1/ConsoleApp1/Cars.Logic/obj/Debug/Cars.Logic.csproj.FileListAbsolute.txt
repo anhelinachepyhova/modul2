@@ -4,3 +4,9 @@ E:\Тестовая загрузка\HomeWorkC-\Modul2_1\ConsoleApp1\Cars.Logic\
 E:\Тестовая загрузка\HomeWorkC-\Modul2_1\ConsoleApp1\Cars.Logic\obj\Debug\Cars.Logic.csproj.CoreCompileInputs.cache
 E:\Тестовая загрузка\HomeWorkC-\Modul2_1\ConsoleApp1\Cars.Logic\obj\Debug\Cars.Logic.dll
 E:\Тестовая загрузка\HomeWorkC-\Modul2_1\ConsoleApp1\Cars.Logic\obj\Debug\Cars.Logic.pdb
+E:\Modul2\Modul2_1\ConsoleApp1\Cars.Logic\obj\Debug\Cars.Logic.csprojAssemblyReference.cache
+E:\Modul2\Modul2_1\ConsoleApp1\Cars.Logic\obj\Debug\Cars.Logic.csproj.CoreCompileInputs.cache
+E:\Modul2\Modul2_1\ConsoleApp1\Cars.Logic\obj\Debug\Cars.Logic.dll
+E:\Modul2\Modul2_1\ConsoleApp1\Cars.Logic\obj\Debug\Cars.Logic.pdb
+E:\Modul2\Modul2_1\ConsoleApp1\Cars.Logic\bin\Debug\Cars.Logic.dll
+E:\Modul2\Modul2_1\ConsoleApp1\Cars.Logic\bin\Debug\Cars.Logic.pdb

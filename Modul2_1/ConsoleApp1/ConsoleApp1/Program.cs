@@ -23,9 +23,12 @@ namespace ConsoleApp1
 				Console.WriteLine(obj1.getinfo(i));
 
 				Console.WriteLine();
-			}
 
-			Console.ReadLine();
+				if (Console.ReadKey().Key == ConsoleKey.Escape)
+				{
+					break;
+				}
+			}
 		}
 
 		static object menu(int num)
@@ -44,7 +47,8 @@ namespace ConsoleApp1
 				Console.Write($"{num} Input price car, please ");
 			} while (!double.TryParse(Console.ReadLine(), out price));
 
-			Cars.Logic.Car obj = new Cars.Logic.Car(price, color, name);
+			Cars.Logic.Car obj = new Cars.Logic.Car();
+			obj.setinfoclass(name, color, price);
 			return obj;
 		}
 	}

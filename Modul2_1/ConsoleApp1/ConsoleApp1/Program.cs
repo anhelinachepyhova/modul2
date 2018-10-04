@@ -19,7 +19,7 @@ namespace ConsoleApp1
 
 			for (int i = 1; i <= num; i++)
 			{
-				Cars.Logic.Car obj1 = (Cars.Logic.Car) menu(i);
+				Cars.Logic.Car obj1 = (Cars.Logic.Car)menu(i);
 				Console.WriteLine(obj1.getinfo(i));
 
 				Console.WriteLine();
